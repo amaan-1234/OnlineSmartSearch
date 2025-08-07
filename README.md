@@ -60,11 +60,10 @@ This project uses **LLMs**, **Semantic Kernel**, and **SerpAPI** to search for p
 
 ## 🧪 Example Usage
 
-Search for **"noise cancelling headphones"**, and the script will:
+Search for **"Best noise cancelling headphones under $300"**, and the script will:
 
 * Pull top 8 Online listings
 * Extract names, prices, and ratings
-* Summarize the top 8 in a short, natural language paragraph
 
 ---
 
