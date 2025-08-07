@@ -67,6 +67,11 @@ Search for **"Best noise cancelling headphones under $300"**, and the script wil
 
 ---
 
+## Output:
+
+<img width="1068" height="1191" alt="image" src="https://github.com/user-attachments/assets/5eda12c0-be8e-4ce6-b093-c5a7f3206146" />
+
+
 ## ⚠️ Limitations
 
 * **Semantic Kernel usage is minimal**: Only imported; not actively used in this version
